@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Capstone-Project/static/js/main.183593ec.js",
+    "static/media/hero-image.png": "/Capstone-Project/static/media/hero-image.8e6060be66713354432c.png",
+    "static/media/benefits-img.png": "/Capstone-Project/static/media/benefits-img.2edccd4c75584105fe56.png",
+    "static/media/program1-img.png": "/Capstone-Project/static/media/program1-img.5a18d5725a5efa154301.png",
+    "static/media/the-founder.png": "/Capstone-Project/static/media/the-founder.66025771a57f8f30ac10.png",
+    "static/media/the-professionals.png": "/Capstone-Project/static/media/the-professionals.bf5b4e0b90bde648eb9a.png",
+    "static/media/program2-img.png": "/Capstone-Project/static/media/program2-img.97385321308d28e12540.png",
+    "index.html": "/Capstone-Project/index.html",
+    "main.183593ec.js.map": "/Capstone-Project/static/js/main.183593ec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.183593ec.js"
+  ]
+}
