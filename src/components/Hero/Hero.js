@@ -26,7 +26,7 @@ const Hero = () => {
           <MainTitleTextGradient>than your excuses.</MainTitleTextGradient>
         </MainTitlte>
         <MainDescription>
-          Intrepide is your new home in boutique wellness. We join the
+          Fearless is your new home in boutique wellness. We join the
           dependable standards of Pilates with forefront development to give you
           the most out of each exercise.
         </MainDescription>

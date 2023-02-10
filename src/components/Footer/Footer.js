@@ -23,33 +23,15 @@ const Footer = () => {
     <Section>
       <FooterSection>
         <FooterCompanyDetails>
-          <FooterLogo>INTREPIDE</FooterLogo>
+          <FooterLogo>FEARLESS</FooterLogo>
           <FooterDescription>
-            Intrepide is your new home in boutique wellness. We join the
+            Fearless is your new home in boutique wellness. We join the
             dependable standards of Pilates with forefront development to give
             you the most out of each exercise.
           </FooterDescription>
         </FooterCompanyDetails>
         <FooterSections>
           <FooterSectionLink>
-            <FooterSectionsTitle>Company</FooterSectionsTitle>
-            <FooterList>
-              <FooterLink
-                target="__blank"
-                rel="noopener noreferrer"
-                href="https://jerichobantiquete.netlify.app/"
-              >
-                About us
-              </FooterLink>
-            </FooterList>
-            <FooterList>
-              <FooterLink href="#0">Career</FooterLink>
-            </FooterList>
-            <FooterList>
-              <FooterLink href="mailto:jerichobantiquete@gmail.com">
-                Contact us
-              </FooterLink>
-            </FooterList>
           </FooterSectionLink>
           <FooterSectionLink>
             <FooterSectionsTitle>Membership</FooterSectionsTitle>
@@ -78,6 +60,7 @@ const Footer = () => {
         </FooterSections>
       </FooterSection>
       <FooterLine />
+        
       <Copyright>© {year} All Rights Reserved</Copyright>
 
       <LegalLinks>

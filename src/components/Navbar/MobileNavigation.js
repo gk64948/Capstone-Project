@@ -18,7 +18,7 @@ const MobileNav = ({ isOpen, toggleHandler }) => {
   return (
     <MobileStyledNav isOpen={isOpen}>
       <MobileHeader>
-        <MobileLogo>Intrepide</MobileLogo>
+        <MobileLogo>Fearless</MobileLogo>
         <CloseMenu onClick={toggleHandler} />
       </MobileHeader>
       <MobileNavList>
@@ -68,18 +68,6 @@ const MobileNav = ({ isOpen, toggleHandler }) => {
             onClick={toggleHandler}
           >
             Memberships
-          </MobileLink>
-        </MobileList>
-        <MobileList>
-          <MobileLink
-            to="testimonials"
-            smooth={true}
-            duration={650}
-            delay={0}
-            spyThrottle={0}
-            onClick={toggleHandler}
-          >
-            Testimonials
           </MobileLink>
         </MobileList>
       </MobileNavList>

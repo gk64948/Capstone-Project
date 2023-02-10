@@ -21,7 +21,7 @@ const Navbar = () => {
     <>
       <MobileNav isOpen={isOpen} toggleHandler={toggleHandler} />
       <StyledNavbar>
-        <Logo>Intrepide</Logo>
+        <Logo>Fearless</Logo>
         <Menu onClick={toggleHandler} />
         <NavLists>
           <NavList>
@@ -66,17 +66,6 @@ const Navbar = () => {
               spyThrottle={0}
             >
               Memberships
-            </NavLink>
-          </NavList>
-          <NavList>
-            <NavLink
-              to="testimonials"
-              smooth={true}
-              duration={650}
-              delay={0}
-              spyThrottle={0}
-            >
-              Testimonials
             </NavLink>
           </NavList>
           <StyledButton primary={true}>Become a member</StyledButton>

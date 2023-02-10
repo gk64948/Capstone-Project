@@ -9,7 +9,6 @@ import About from "./components/About/About";
 import Benefits from "./components/Benefits/Benefits";
 import Banner from "./components/Banner/Banner";
 import Membership from "./components/Membership/Membership";
-import Testimonials from "./components/Testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
 
 function App() {
@@ -25,7 +24,6 @@ function App() {
           <Benefits />
           <Banner />
           <Membership />
-          <Testimonials />
           <Footer />
         </div>
       </ThemeProvider>
